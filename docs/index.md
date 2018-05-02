@@ -1,3 +1,4 @@
 # Intro
 
-[ebike-city.jpeg]
+
+![ebike city]({{ "/ebike-city.jpeg" | absolute_url }}

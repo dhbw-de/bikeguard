@@ -19,14 +19,14 @@ layout: home
 			</section>
 			<section class="4u 12u(narrower)">
 				<div class="box highlight">
-					<i class="fas fa-angle-double-left"></i>
+					<i class="fa fa-backward" aria-hidden="true"></i>
 					<h3>Rückholservice</h3>
 					<p>Dein Fahrrad ist dir lieb und teuer? Geld ist kein Ersatz? Wir holen dein gestohlenes Fahrrad zu dir zurück.</p>
 				</div>
 			</section>
 			<section class="4u 12u(narrower)">
 				<div class="box highlight">
-					<i class="fab fa-audible"></i>
+					<i class="fa fa-rss" aria-hidden="true"></i>
 					<h3>GPS-Tracking</h3>
 					<p>Du vergisst manchmal deinen Stellplatz? Du willst immer wissen, wo dein Fahrrad ist? Standortabruf rund um die Uhr über unsere App.</p>
 				</div>

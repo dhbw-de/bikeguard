@@ -13,22 +13,22 @@ layout: home
 			<section class="4u 12u(narrower)">
 				<div class="box highlight">
 					<i class="icon major fa-paper-plane"></i>
-					<h3>This Is Important</h3>
-					<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+					<h3>Mobilitätsgarantie</h3>
+					<p>Du bist auf dein Fahrrad angewiesen? Kommst du sonst nicht von A nach B? Wir garantieren deine Mobilität.</p>
 				</div>
 			</section>
 			<section class="4u 12u(narrower)">
 				<div class="box highlight">
 					<i class="icon major fa-pencil"></i>
-					<h3>Also Important</h3>
-					<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+					<h3>Rückholservice</h3>
+					<p>Dein Fahrrad ist dir lieb und teuer? Geld ist kein Ersatz? Wir holen dein gestohlenes Fahrrad zu dir zurück.</p>
 				</div>
 			</section>
 			<section class="4u 12u(narrower)">
 				<div class="box highlight">
 					<i class="icon major fa-wrench"></i>
-					<h3>Probably Important</h3>
-					<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+					<h3>GPS-Tracking</h3>
+					<p>Du vergisst manchmal deinen Stellplatz? Du willst immer wissen, wo dein Fahrrad ist? Wir bieten dir rund um die Uhr einen Standortabruf über unsere App.</p>
 				</div>
 			</section>
 		</div>

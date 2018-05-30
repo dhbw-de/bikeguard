@@ -39,8 +39,10 @@ layout: home
 <section class="wrapper style2">
 	<div class="container">
 		<header class="major">
-			<h2>A gigantic heading you can use for whatever</h2>
-			<p>With a much smaller subtitle hanging out just below it</p>
+			<h2>Kundenmeinungen</h2>
+			<p>"bikeguard ist der Wahnsinn, ich habe schon zwei mal mein Rad zurückbekommen." - Alexander Fischer, Berlin</p>
+			<p>"Dank bikeguard bleibe ich immer mobil. Schon am nächsten Tag hatte ich mein repariertes Fahrrad zurück." - Susanne Delmont, Köln</p>
+			<p>"Dank bikeguard habe ich keine Angst mehr, dass mein Fahrrad gestohlen wird." - Tobias Buchmann, München</p>
 		</header>
 	</div>
 </section>

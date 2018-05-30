@@ -32,7 +32,6 @@ layout: home
 				</div>
 			</section>
 	</div>
-</section>
 
 <!-- Gigantic Heading -->
 <section class="wrapper style2">

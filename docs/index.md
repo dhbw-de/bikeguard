@@ -54,7 +54,7 @@ layout: home
 					<a href="#" class="image left"><img src="images/pic01.jpg" alt="" /></a>
 					<div class="inner">
 						<h3>bikeguard Plus</h3>
-						<p>Hol dir den bikeguard Schutz für dein Fahrrad. Bleib immer mobil. Schon ab 20 Euro im Monat.</p>
+						<p>Hol dir den bikeguard Schutz für dein Fahrrad. Bleib immer mobil. Schon ab weniger als 1 Euro pro Tag.</p>
 					</div>
 				</div>
 			</section>
@@ -63,7 +63,7 @@ layout: home
 					<a href="#" class="image left"><img src="images/pic02.jpg" alt="" /></a>
 					<div class="inner">
 						<h3>bikeguard Premium</h3>
-						<p>Das Beste ist dir nicht gut genug? Hol dir das Upgrade auf Premium und genieße alle unsere Vorteile. Schon ab 30 Euro im Monat.</p>
+						<p>Das Beste ist dir nicht gut genug? Hol dir das Upgrade auf Premium und genieße alle unsere Vorteile. Schon ab 1 Euro pro Tag.</p>
 					</div>
 				</div>
 			</section>

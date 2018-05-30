@@ -12,7 +12,7 @@ layout: home
 		<div class="row 200%">
 			<section class="4u 12u(narrower)">
 				<div class="box highlight">
-					<i class="icon major fa-paper-plane"></i>
+					<i class="fa fa-bicycle" aria-hidden="true"></i>
 					<h3>Mobilitätsgarantie</h3>
 					<p>Du bist auf dein Fahrrad angewiesen? Kommst du sonst nicht von A nach B? Wir garantieren deine Mobilität.</p>
 				</div>

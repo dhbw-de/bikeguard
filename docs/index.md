@@ -54,7 +54,7 @@ layout: home
 					<a href="#" class="image left"><img src="images/pic01.jpg" alt="" /></a>
 					<div class="inner">
 						<h3>bikeguard Plus</h3>
-						<p>Hol dir den bikeguard Schutz für dein Fahrrad. Bleib immer mobil. Schon ab weniger als 1 Euro pro Tag.</p>
+						<p>Hol dir den bikeguard Schutz für dein Fahrrad. Bleib immer mobil. Schon ab unter 1 Euro pro Tag.</p>
 					</div>
 				</div>
 			</section>

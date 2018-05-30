@@ -65,18 +65,3 @@ layout: home
 					<div class="inner">
 						<h3>bikeguard Premium</h3>
 						<p>Das Beste ist dir nicht gut genug? Hol dir das Upgrade auf Premium und genieße alle unsere Vorteile. Schon ab 1 Euro pro Tag.</p>
-					</div>
-				</div>
-			</section>
-		<div class="row">
-			<section class="6u 12u(narrower)">
-				<div class="box post">
-	
-<section id="cta" class="wrapper style3">
-	<div class="container">
-		<header>
-			<h2>Are you ready to continue your quest?</h2>
-			<a href="#" class="button">Insert Coin</a>
-		</header>
-	</div>
-</section>

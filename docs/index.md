@@ -28,7 +28,7 @@ layout: home
 				<div class="box highlight">
 					<i class="icon major fa-wrench"></i>
 					<h3>GPS-Tracking</h3>
-					<p>Du vergisst manchmal deinen Stellplatz? Du willst immer wissen, wo dein Fahrrad ist? Wir bieten dir rund um die Uhr einen Standortabruf über unsere App.</p>
+					<p>Du vergisst manchmal deinen Stellplatz? Du willst immer wissen, wo dein Fahrrad ist? Standortabruf rund um die Uhr über unsere App.</p>
 				</div>
 			</section>
 		</div>
@@ -53,8 +53,8 @@ layout: home
 				<div class="box post">
 					<a href="#" class="image left"><img src="images/pic01.jpg" alt="" /></a>
 					<div class="inner">
-						<h3>The First Thing</h3>
-						<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+						<h3>bikeguard Plus</h3>
+						<p>Hol dir den bikeguard Schutz für dein Fahrrad. Bleib immer mobil. Schon ab 20 Euro im Monat.</p>
 					</div>
 				</div>
 			</section>
@@ -62,8 +62,8 @@ layout: home
 				<div class="box post">
 					<a href="#" class="image left"><img src="images/pic02.jpg" alt="" /></a>
 					<div class="inner">
-						<h3>The Second Thing</h3>
-						<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+						<h3>bikeguard Premium</h3>
+						<p>Das Beste ist dir nicht gut genug? Hol dir das Upgrade auf Premium und genieße alle unsere Vorteile. Schon ab 30 Euro im Monat.</p>
 					</div>
 				</div>
 			</section>

@@ -31,7 +31,6 @@ layout: home
 					<p>Du vergisst manchmal deinen Stellplatz? Du willst immer wissen, wo dein Fahrrad ist? Standortabruf rund um die Uhr über unsere App.</p>
 				</div>
 			</section>
-		</div>
 	</div>
 </section>
 
@@ -69,31 +68,10 @@ layout: home
 					</div>
 				</div>
 			</section>
-		</div>
 		<div class="row">
 			<section class="6u 12u(narrower)">
 				<div class="box post">
-					<a href="#" class="image left"><img src="images/pic03.jpg" alt="" /></a>
-					<div class="inner">
-						<h3>The Third Thing</h3>
-						<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
-					</div>
-				</div>
-			</section>
-			<section class="6u 12u(narrower)">
-				<div class="box post">
-					<a href="#" class="image left"><img src="images/pic04.jpg" alt="" /></a>
-					<div class="inner">
-						<h3>The Fourth Thing</h3>
-						<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
-					</div>
-				</div>
-			</section>
-		</div>
-	</div>
-</section>
-
-<!-- CTA -->
+	
 <section id="cta" class="wrapper style3">
 	<div class="container">
 		<header>
